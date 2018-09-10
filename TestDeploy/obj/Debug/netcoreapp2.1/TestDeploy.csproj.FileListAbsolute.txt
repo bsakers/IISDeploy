@@ -1,0 +1,14 @@
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\bin\Debug\netcoreapp2.1\TestDeploy.deps.json
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\bin\Debug\netcoreapp2.1\TestDeploy.runtimeconfig.json
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\bin\Debug\netcoreapp2.1\TestDeploy.runtimeconfig.dev.json
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\bin\Debug\netcoreapp2.1\TestDeploy.dll
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\bin\Debug\netcoreapp2.1\TestDeploy.pdb
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.csprojAssemblyReference.cache
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.csproj.CoreCompileInputs.cache
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.RazorAssemblyInfo.cache
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.RazorAssemblyInfo.cs
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.AssemblyInfoInputs.cache
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.AssemblyInfo.cs
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.RazorTargetAssemblyInfo.cache
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.dll
+C:\Users\shoque909\Documents\TestDeploy\TestDeploy\obj\Debug\netcoreapp2.1\TestDeploy.pdb
