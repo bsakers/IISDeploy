@@ -14,14 +14,14 @@ namespace TestDeploy.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "Like Tears", "In the Rain" };
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<int> Get(int id)
         {
-            return "value";
+            return id;
         }
 
         // POST api/values
